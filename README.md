@@ -49,7 +49,7 @@ python scripts/build_index.py
 
 5. **Start the server**
 ```bash
-python -m app.api
+uvicorn app.api:app --host 0.0.0.0 --port 8000
 ```
 
 6. **Open in browser**
@@ -82,7 +82,7 @@ Run retrieval and answer quality evaluations:
 
 ```bash
 # Start server first
-python -m app.api
+uvicorn app.api:app
 
 # In new terminal:
 # Evaluate retrieval (Recall@5)
