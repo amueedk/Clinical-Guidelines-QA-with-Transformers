@@ -38,21 +38,32 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-4. **Prepare corpus and build index**
+4. **(Recommended) Cache models locally**
 ```bash
-# Parse and chunk WHO documents
-python scripts/prepare_corpus.py
-
-# Build FAISS index (downloads embedding model)
-python scripts/build_index.py
+python scripts/cache_models.py \
+	--models sentence-transformers/all-MiniLM-L6-v2 google/flan-t5-base
 ```
 
-5. **Start the server**
+5. **Prepare corpus and build index**
+```bash
+# Parse and chunk WHO documents (explicit I/O paths)
+python scripts/prepare_corpus.py \
+	--input_dir data/raw/who \
+	--out data/processed/chunks.jsonl
+
+# Build FAISS index (uses cached embedding model if available)
+python scripts/build_index.py \
+	--chunks data/processed/chunks.jsonl \
+	--out_dir indexes \
+	--model sentence-transformers/all-MiniLM-L6-v2
+```
+
+6. **Start the server**
 ```bash
 uvicorn app.api:app --host 0.0.0.0 --port 8000
 ```
 
-6. **Open in browser**
+7. **Open in browser**
 Navigate to: `http://localhost:8000`
 
 ## 📁 Project Structure
