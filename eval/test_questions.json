@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What are the symptoms of diabetes?",
+    "relevant_chunks": ["diabetes.txt::chunk_0000"],
+    "topic": "symptoms"
+  },
+  {
+    "question": "How is type 2 diabetes prevented?",
+    "relevant_chunks": ["diabetes.txt::chunk_0002"],
+    "topic": "prevention"
+  },
+  {
+    "question": "What are the main symptoms of malaria?",
+    "relevant_chunks": ["malaria.txt::chunk_0000"],
+    "topic": "symptoms"
+  },
+  {
+    "question": "How can malaria be prevented?",
+    "relevant_chunks": ["malaria.txt::chunk_0001"],
+    "topic": "prevention"
+  },
+  {
+    "question": "What causes hepatitis A?",
+    "relevant_chunks": ["hepatitis_a.txt::chunk_0000"],
+    "topic": "causes"
+  },
+  {
+    "question": "How is hepatitis A transmitted?",
+    "relevant_chunks": ["hepatitis_a.txt::chunk_0001"],
+    "topic": "transmission"
+  },
+  {
+    "question": "What are the symptoms of hepatitis A?",
+    "relevant_chunks": ["hepatitis_a.txt::chunk_0002"],
+    "topic": "symptoms"
+  },
+  {
+    "question": "How can hepatitis A be prevented?",
+    "relevant_chunks": ["hepatitis_a.txt::chunk_0004"],
+    "topic": "prevention"
+  },
+  {
+    "question": "What are the health consequences of obesity?",
+    "relevant_chunks": ["obesity.txt::chunk_0003"],
+    "topic": "complications"
+  },
+  {
+    "question": "What causes obesity?",
+    "relevant_chunks": ["obesity.txt::chunk_0002"],
+    "topic": "causes"
+  },
+  {
+    "question": "What are the symptoms of tuberculosis?",
+    "relevant_chunks": ["tuberculosis.txt::chunk_0000"],
+    "topic": "symptoms"
+  },
+  {
+    "question": "How is tuberculosis transmitted?",
+    "relevant_chunks": ["tuberculosis.txt::chunk_0000"],
+    "topic": "transmission"
+  },
+  {
+    "question": "What are the risk factors for cardiovascular disease?",
+    "relevant_chunks": ["cvd.txt::chunk_0001"],
+    "topic": "risk_factors"
+  },
+  {
+    "question": "What are the symptoms of hypertension?",
+    "relevant_chunks": ["hypertension.txt::chunk_0001"],
+    "topic": "symptoms"
+  },
+  {
+    "question": "How can hypertension be treated?",
+    "relevant_chunks": ["hypertension.txt::chunk_0001"],
+    "topic": "treatment"
+  }
+]

@@ -1,0 +1,85 @@
+SOURCE: World Health Organization (WHO)
+TITLE: Malaria
+URL: https://www.who.int/news-room/fact-sheets/detail/malaria
+DATE_ACCESSED: 2025-12-21
+TOPIC: General Diseases
+--------------------------------------------------
+
+Overview
+Malaria is a life-threatening disease spread to humans by some types of mosquitoes. It is mostly found in tropical countries. It is preventable and curable.
+
+The infection is caused by a parasite and does not spread from person to person.
+
+Symptoms can be mild or life-threatening. Mild symptoms are fever, chills and headache. Severe symptoms include fatigue, confusion, seizures, and difficulty breathing.
+
+Infants, children under 5 years, pregnant women and girls, travellers and people with HIV or AIDS are at higher risk of severe infection. 
+
+Malaria can be prevented by avoiding mosquito bites and with medicines. Treatments can stop mild cases from getting worse.
+
+Malaria mostly spreads to people through the bites of some infected female Anopheles mosquitoes. Blood transfusion and contaminated needles may also transmit malaria. The first symptoms may be mild, similar to many febrile illnesses, and difficulty to recognize as malaria. Left untreated, P. falciparum malaria can progress to severe illness and death within 24 hours.
+
+There are 5 Plasmodium parasite species that cause malaria in humans and 2 of these species – P. falciparum and P. vivax – pose the greatest threat. P. falciparum is the deadliest malaria parasite and the most prevalent on the African continent. P. vivax is the dominant malaria parasite in most countries outside of sub-Saharan Africa. The other malaria species which can infect humans are P. malariae, P. ovale and P. knowlesi.
+
+Symptoms
+The most common early symptoms of malaria are fever, headache and chills.
+
+Symptoms usually start within 10–15 days of getting bitten by an infected mosquito.
+
+Symptoms may be mild for some people, especially for those who have had a malaria infection before. Because some malaria symptoms are not specific, getting tested early is important. 
+
+Some types of malaria can cause severe illness and death. Infants, children under 5 years, pregnant women, travellers and people with HIV or AIDS are at higher risk. Severe symptoms include:
+
+extreme tiredness and fatigue 
+impaired consciousness
+multiple convulsions
+difficulty breathing
+dark or bloody urine
+jaundice (yellowing of the eyes and skin) 
+abnormal bleeding.
+People with severe symptoms should get emergency care right away. Getting treatment early for mild malaria can stop the infection from becoming severe. 
+
+Malaria infection during pregnancy can also cause premature delivery or delivery of a baby with low birth weight.
+
+Prevention
+Malaria can be prevented by avoiding mosquito bites and by taking medicines. Talk to a doctor about taking medicines such as chemoprophylaxis before travelling to areas where malaria is common.
+
+Lower the risk of getting malaria by avoiding mosquito bites:  
+
+Use mosquito nets when sleeping in places where malaria is present.
+Use mosquito repellents (containing DEET, IR3535 or Icaridin) after dusk.
+Use coils and vaporizers.
+Wear protective clothing.
+Use window screens.
+Vector control
+Vector control is a vital component of malaria control and elimination strategies as it is highly effective in preventing infection and reducing disease transmission. The 2 core interventions are insecticide-treated nets (ITNs) and indoor residual spraying (IRS).
+
+Progress in global malaria control is threatened by emerging resistance to insecticides among Anopheles mosquitoes. However, new generation nets, which provide better protection against malaria than pyrethroid-only nets, are becoming more widely available and represent an important tool in global efforts to combat malaria.
+
+Chemoprophylaxis
+Travellers to malaria endemic areas should consult their doctor several weeks before departure. The medical professional will determine which chemoprophylaxis drugs are appropriate for the country of destination. In some cases, chemoprophylaxis drugs must be started 2–3 weeks before departure. All prophylactic drugs should be taken on schedule for the duration of the stay in the malaria risk area and should be continued for 4 weeks after the last possible exposure to infection since parasites may still emerge from the liver during this period.
+
+Preventive chemotherapies
+Preventive chemotherapy is the use of medicines, either alone or in combination, to prevent malaria infections and their consequences. It requires giving a full treatment course of an antimalarial medicine to vulnerable populations at designated time points during the period of greatest malarial risk, regardless of whether the recipients are infected with malaria.
+
+Preventive chemotherapy includes perennial malaria chemoprevention (PMC), seasonal malaria chemoprevention (SMC), intermittent preventive treatment of malaria in pregnancy (IPTp) and school-aged children (IPTsc), post-discharge malaria chemoprevention (PDMC) and mass drug administration (MDA). These safe and cost-effective strategies are intended to complement ongoing malaria control activities, including vector control measures, prompt diagnosis of suspected malaria, and treatment of confirmed cases with antimalarial medicines.
+
+Vaccine
+Since October 2021, WHO has recommended broad use of the RTS,S/AS01 malaria vaccine among children living in regions with moderate to high P. falciparum malaria transmission. The vaccine has been shown to significantly reduce malaria, and deadly severe malaria, among young children. In October 2023, WHO recommended a second safe and effective malaria vaccine, R21/Matrix-M. Vaccines are now being rolled out in routine childhood immunization programmes across Africa.  Malaria vaccines in Africa are expected to save tens of thousands of young lives every year. The highest impact will be achieved, however, when the vaccines are introduced alongside a mix of other WHO-recommended malaria interventions such as bed nets and chemoprophylaxis.
+
+Treatment
+Early diagnosis and treatment of malaria reduces disease, prevents deaths and contributes to reducing transmission. WHO recommends that all suspected cases of malaria be confirmed using parasite-based diagnostic testing (through either microscopy or a rapid diagnostic test).
+
+Malaria is a serious infection and always requires treatment with medicine.
+
+Multiple medicines are used to prevent and treat malaria. Doctors will choose one or more based on: 
+
+the type of malaria 
+whether a malaria parasite is resistant to a medicine
+the weight or age of the person infected with malaria 
+whether the person is pregnant.
+These are the most common medicines for malaria:
+
+Artemisinin-based combination therapy medicines are the most effective treatment for P. falciparum malaria.
+Chloroquine is recommended for treatment of infection with the P. vivax parasite only in places where it is still sensitive to this medicine.
+Primaquine should be added to the main treatment to prevent relapses of infection with the P. vivax and P. ovale parasites. 
+Most medicines used are in pill form. Some people may need to go to a health centre or hospital for injectable medicines.

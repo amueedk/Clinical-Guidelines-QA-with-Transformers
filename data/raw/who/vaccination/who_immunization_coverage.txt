@@ -1,0 +1,47 @@
+SOURCE: World Health Organization (WHO)
+TITLE: Immunization Coverage
+URL: https://www.who.int/news-room/fact-sheets/detail/immunization-coverage
+DATE_ACCESSED: 2025-12-21
+TOPIC: Vaccination
+--------------------------------------------------
+
+Overview
+While immunization is one of the most successful public health interventions, coverage coverage has held steady since 2023, but data highlight a troubling trajectory in progress toward key targets of the global Immunization Agenda 2030 (IA2030).  
+
+During 2024, about 85% of infants worldwide (109 million) received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine, protecting them against infectious diseases that can cause serious illness and disability or be fatal. However, these global figures hide significant disparity among countries of different income strata, with low-income countries lagging behind.
+
+Measles, because of its high transmissibility, acts as an early warning system, quickly exposing immunity gaps in the population. Still, 20.6 million children missed their routine first dose of measles, far from the 2019 level of 19.3 million.
+
+Global immunization coverage 2024
+A summary of global vaccination coverage in 2024 follows.
+
+Haemophilus influenzae type b (Hib) causes meningitis and pneumonia. The Hib vaccine had been introduced in 193 Member States by the end of 2024. Global coverage with 3 doses of Hib vaccine is estimated at 78%. There is great variation between regions. The WHO European Region is estimated to have 93% coverage, while it is only 34% in the WHO Western Pacific Region.
+
+Hepatitis B is a viral infection that attacks the liver. Hepatitis B vaccine for infants had been introduced nationwide in 190 Member States by the end of 2024. Global coverage with 3 doses of hepatitis B vaccine is estimated at 84%. In addition, 117 Member States introduced 1 dose of hepatitis B vaccine to newborns within the first 24 hours of life. Global coverage is 45% and is as high as 79% in the WHO Western Pacific Region, while it is estimated at only 17% in the WHO African Region.
+
+Human papillomavirus (HPV) is the most common viral infection affecting the reproductive tract and can cause cervical cancer in women, other types of cancer, and genital warts in both men and women. The HPV vaccine was provided in national immunization programmes and services in 147 countries in 2024, including new introductions in four countries. In 2024, 67 countries – representing more than 80% of girls aged 9–14 years old vaccinated in that year – used a 1-dose schedule. Global coverage with the first dose of HPV among girls is now estimated at 31%. While far from the 90% target by 2030, it represents a large increase from the 17% coverage in 2019. The 4% increase in global coverage since last year was driven by new introductions and scale up in several large countries and by a widespread improvement in existing programmes, including in countries using the 1-dose schedule.
+
+Malaria is a life-threatening disease caused by parasites transmitted to people through the bites of infected anopheline mosquitoes. It remains one of the leading causes of death among children in sub-Saharan Africa. The Malaria Vaccine Implementation Programme (MVIP), coordinated by WHO and conducted in Ghana, Kenya and Malawi from 2019 to 2023 demonstrated high public impact with a vaccine-attributable 13% reduction in all-cause mortality among children age-eligible for vaccination and substantial reduction in hospitalizations for severe malaria. Since 2024, malaria vaccines have been further introduced in national immunization schedules and scaled-up across Africa as part of integrated malaria control activities. At least 30 countries in Africa plan to introduce malaria vaccines into their childhood immunization programmes.
+
+Measles is a highly contagious disease caused by a virus, which usually results in a high fever and rash, and can lead to blindness, encephalitis or death. By the end of 2024, 84% of children had received 1 dose of measles-containing vaccine by their second birthday, and 76% of children received 2 doses of measles vaccine. By the end of 2024, 191 Member States had included a second dose of measles vaccine in their national immunization schedules.
+
+Bacterial meningitis is an often-deadly infection which also leaves 1 in 5 individuals with long-term devastating sequelae after the acute phase. Before MenAfriVac introduction in 2010, meningococcus serogroup A (NmA) caused 80% of meningitis epidemics in the African meningitis belt. By end 2024, 24 of 26 countries in the belt conducted preventive campaigns, and 15 introduced MenAfriVac in their routine immunization programme, reaching 410 million people. Coverage is estimated at 60% in countries using MenAfriVac in routine immunization programmes and 29% overall in the 26 countries. No case of NmA meningitis has been confirmed in the belt since 2017. A gradual switch to a new pentavalent meningococcal ACWYX conjugate vaccine starting in 2025 will pave the way to make the meningitis belt history.
+
+Mumps is a highly contagious virus that causes painful swelling at the side of the face under the ears (the parotid glands), fever, headache and muscle aches. It can lead to viral meningitis. Mumps vaccine had been introduced nationwide in 124 Member States by the end of 2024.
+
+Pneumococcal diseases include pneumonia, meningitis and febrile bacteraemia, as well as otitis media, sinusitis and bronchitis. Pneumococcal vaccine had been introduced in 163 Member States by the end of 2024 and global third dose coverage was estimated at 67%. There is great variation between regions. The WHO South-East Asia Region is estimated to have 88% coverage, while it is only 23% in the WHO Western Pacific Region.
+
+Polio is a highly infectious viral disease that can cause irreversible paralysis. In 2024, 84% of infants around the world received 3 doses of polio vaccine. In 2024, the coverage of infants receiving their first dose of inactivated polio vaccine (IPV) in countries that are still using oral polio vaccine (OPV) is estimated at 85% as well. In these same countries, the coverage of infants receiving their second dose of IPV is estimated at 68%, which represents a huge increase from the 43% estimated in 2023. Targeted for global eradication, polio has been stopped in all countries except for Afghanistan and Pakistan. Until poliovirus transmission is interrupted in these countries, all countries remain at risk of importation of polio, especially vulnerable countries with weak public health and immunization services and travel or trade links to endemic countries.
+
+Rotaviruses are the most common cause of severe diarrhoeal disease in young children throughout the world. Rotavirus vaccine was introduced in 131 countries by the end of 2024. Global coverage was estimated at 59%.
+
+Rubella is a viral disease which is usually mild in children, but infection during early pregnancy may cause fetal death or congenital rubella syndrome, which can lead to defects of the brain, heart, eyes and ears. Rubella vaccine was introduced nationwide in 178 Member States by the end of 2024, and global coverage was estimated at 73%.
+
+Tetanus is caused by a bacterium which grows in the absence of oxygen, for example in dirty wounds or the umbilical cord if it is not kept clean. The spores of C. tetani are present in the environment irrespective of geographical location. It produces a toxin which can cause serious complications or death. Maternal and neonatal tetanus persist as public health problems in 10 countries, Afghanistan, Angola, Central African Republic, Nigeria, Pakistan, Papua New Guinea, Somalia, Sudan, South Sudan and Yemen.
+
+Yellow fever is an acute viral haemorrhagic disease transmitted by infected mosquitoes. As of 2024, yellow fever vaccine had been introduced in routine infant immunization programmes in 38 of the 40 countries and territories at risk for yellow fever in Africa and the Americas. In these 40 countries and territories, coverage is estimated at 52%.
+
+Key challenges
+In 2024, 14.3 million infants did not receive an initial dose of DTP vaccine, pointing to a lack of access to immunization and other health services, and an additional 5.6 million are partially vaccinated. Of the 19.9 million, around 55% of these children live in 10 countries: Afghanistan, the Democratic Republic of the Congo, Ethiopia, India, Indonesia, Nigeria, Pakistan, the Philippines, Sudan and Yemen.
+
+Monitoring data at subnational levels is critical to helping countries prioritize and tailor vaccination strategies and operational plans to address immunization gaps and reach every person with life-saving vaccines.

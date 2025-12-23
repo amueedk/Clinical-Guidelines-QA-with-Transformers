@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Clinical Guidelines QA - Patient-Safe Assistant</title>
+    <style>
+      body{font-family:Segoe UI,Arial,Helvetica,sans-serif;margin:24px;max-width:900px}
+      textarea{width:100%;height:120px}
+      input[type=number]{width:80px}
+      .card{border:1px solid #ddd;padding:12px;border-radius:6px;margin-top:12px}
+      .citation{font-size:0.9em;color:#444}
+      .disclaimer{font-size:0.85em;color:#666;margin-top:24px;padding:12px;background:#f9f9f9;border-left:3px solid #ffa500;border-radius:4px}
+    </style>
+  </head>
+  <body>
+    <h2>Clinical Guidelines QA with Transformers + RAG</h2>
+    <p>Ask a clinical guidance question. Answers are grounded in retrieved WHO public health passages with citations.</p>
+
+    <label>Question</label>
+    <textarea id="question">How is type 2 diabetes prevented?</textarea>
+
+    <div style="margin-top:8px">
+      <label>Top K</label>
+      <input id="top_k" type="number" value="4" min="1" max="20" />
+      <button id="ask">Ask</button>
+    </div>
+
+    <div id="out" class="card" style="display:none">
+      <h3>Answer</h3>
+      <div id="answer"></div>
+      <h4>Retrieved citations</h4>
+      <ul id="citations"></ul>
+    </div>
+
+    <script>
+      document.getElementById('ask').addEventListener('click', async ()=>{
+        const q = document.getElementById('question').value.trim();
+        const top_k = parseInt(document.getElementById('top_k').value)||5;
+        if(!q) return alert('Enter a question');
+        document.getElementById('answer').textContent = 'Thinking...';
+        document.getElementById('out').style.display = 'block';
+        try{
+          const resp = await fetch('/query',{
+            method:'POST',
+            headers:{'Content-Type':'application/json'},
+            body: JSON.stringify({question: q, top_k: top_k})
+          });
+          if(!resp.ok){
+            const txt = await resp.text();
+            document.getElementById('answer').textContent = 'Error: '+txt;
+            return;
+          }
+          const data = await resp.json();
+          document.getElementById('answer').textContent = data.answer || 'No answer returned.';
+          const list = document.getElementById('citations');
+          list.innerHTML = '';
+          (data.citations||[]).forEach(c=>{
+            const li = document.createElement('li');
+            const title = c.title||c.id||'chunk';
+            const url = c.url || '';
+            li.innerHTML = `<strong>${title}</strong> ${url?`- <a href="${url}" target="_blank">source</a>`:''} <div class='citation'>${c.id} (score: ${c.score.toFixed(3)})</div>`;
+            list.appendChild(li);
+          });
+        }catch(e){
+          document.getElementById('answer').textContent = 'Request failed: '+e.message;
+        }
+      });
+    </script>
+
+    <div class="disclaimer">
+      <strong>⚠️ Disclaimer:</strong> This system is for educational purposes only. It provides general health information from WHO guidelines and is not a substitute for professional medical advice, diagnosis, or treatment. Always consult qualified healthcare providers for medical concerns.
+    </div>
+  </body>
+</html>

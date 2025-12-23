@@ -1,0 +1,92 @@
+SOURCE: World Health Organization (WHO)
+TITLE: Tuberculosis
+URL: https://www.who.int/news-room/fact-sheets/detail/tuberculosis
+DATE_ACCESSED: 2025-12-21
+TOPIC: General Diseases
+--------------------------------------------------
+
+Overview
+Tuberculosis (TB) is an infectious disease caused by bacteria that most often affects the lungs. It spreads through the air when people with TB cough, sneeze or spit.
+
+Tuberculosis is preventable and curable.
+
+About a quarter of the global population is estimated to have been infected with TB bacteria. In general, people with TB infection don’t feel sick and are not contagious. About 5–10% of people infected with TB will eventually get symptoms and develop TB disease. Babies and children are at higher risk of developing the disease if they are infected.
+
+TB disease is usually treated with antibiotics and can be fatal without treatment.
+
+In certain countries, the Bacille Calmette-Guérin (BCG) vaccine is given to babies or small children to prevent TB. The vaccine prevents deaths from TB and protects children from serious forms of TB.
+
+Certain conditions can increase a person’s risk for TB disease:
+
+diabetes (high blood sugar);
+weakened immune system (for example, from HIV);
+undernutrition;
+tobacco use; and
+harmful use of alcohol.
+Symptoms
+In general, people with TB infection don’t feel sick and are not contagious. Only a small proportion of people who get infected with TB will get TB disease and develop symptoms. Babies and children are at higher risk of developing the disease if they are infected.
+
+TB disease occurs when bacteria multiply in the body and affect different organs. TB symptoms may be mild for many months, so it is easy to spread TB to others without knowing it. Symptoms depend on which part of the body is affected. While TB usually affects the lungs, it can also affect the kidneys, brain, and spine.
+
+Some people with TB disease do not have any symptoms but can still spread TB.
+
+Common symptoms of TB are:
+
+prolonged cough (sometimes with blood);
+chest pain;
+weakness;
+fatigue;
+weight loss;
+fever; and
+night sweats
+The symptoms people get depend on which part of the body is affected by TB. While TB usually affects the lungs, it can also involve the kidneys, brain, spine and skin.
+
+Prevention
+Follow these steps to help prevent tuberculosis infection and spread:
+
+Seek medical attention if you have symptoms like prolonged cough, fever and unexplained weight loss as early treatment for TB can help stop the spread of disease and improve your chances of recovery.
+Get screened for TB if you are at increased risk, such as if you have HIV or are in contact with people who have TB in your household or workplace.
+TB preventive treatment (or TPT) prevents infection from becoming disease. If prescribed TPT, complete the full course.
+If you have TB, practice good hygiene when coughing, including avoiding contact with other people and wearing a mask, covering your mouth and nose when coughing or sneezing, and disposing of sputum and used tissues properly.
+Special measures, like respirators and well-ventilated spaces are important to reduce infection in healthcare facilities and other institutions.
+Diagnosis
+WHO recommends the use of rapid diagnostic tests as the initial diagnostic tests in all persons with signs and symptoms of TB.
+
+Rapid diagnostic tests recommended by WHO include biomarker-based point-of-care tests and molecular assays. All these tests are accurate and can provide initial results to guide treatment decisions within 48 hours of sample collection. Use of these tests will lead to major improvements in the early detection of TB and drug-resistant TB.
+
+Diagnosing drug-resistant forms of TB, including multidrug-resistant TB, as well as HIV-associated TB and pediatric TB can be complex. WHO recommends specific sample types, tests and strategies to detect these forms of TB to increase the chances of detecting disease early and accurately.
+
+A tuberculin skin test (TST), interferon gamma release assay (IGRA) or newer antigen-based skin test (TBST) can be used to identify people with TB infection. The results from these TB infection tests are used to identify which individuals with a high risk of TB will benefit most from TB preventive treatment.
+
+Treatment
+Tuberculosis disease is treated with special antibiotics. Treatment is recommended for both TB infection and disease.
+
+The most common antibiotics used are:
+
+rifampicin;
+isoniazid;
+pyrazinamide; and
+ethambutol.
+To be effective, medications need to be taken daily for 4–6 months. It is dangerous to stop the medications early or without medical advice as it can prompt TB bacteria in the body to become resistant to the antibiotics.
+
+TB that doesn’t respond to standard drugs is called drug-resistant TB and requires treatment with different medicines.
+
+Multidrug-resistant TB (MDR-TB)
+Drug resistance emerges when TB medicines are used inappropriately, through incorrect prescription by health care providers, poor quality drugs, or patients stopping treatment prematurely.
+
+MDR-TB is a form of TB caused by bacteria that do not respond to rifampicin and isoniazid, the two most effective first-line TB drugs. MDR-TB is treatable and curable by using other drugs, which tend to be more expensive and with more side effects. People exposed to MDR-TB may receive TB preventive treatment with levofloxacin.
+
+In some cases, extensively drug-resistant TB or XDR-TB can develop. TB caused by bacteria that do not respond to the most effective drugs in MDR-TB treatment regimens can leave patients with very limited treatment options.
+
+MDR-TB remains a public health crisis. Only about 2 in 5 people with multidrug-resistant TB accessed treatment in 2024.
+
+In accordance with WHO guidelines, detection of MDR-TB requires bacteriological confirmation of TB and testing for drug resistance using rapid molecular tests or culture methods.
+
+In 2022, new WHO guidelines prioritized a short 6-month all-oral regimen known as BPaLM/BPaL as a treatment of choice for eligible patients. Globally in 2024, approximately 34 000 people with MDR/RR-TB were reported to have started treatment on the 6-month shorter regimens (known as BPaLM and BDLLfxC), a substantial increase from 5653 in 2023 and 1744 in 2022. The shorter duration, lower pill burden and high efficacy of this novel regimen can help ease the burden on health systems and save precious resources to further expand the diagnostic and treatment coverage for all individuals in need. WHO recommends expanded access to all-oral regimens.
+
+TB and HIV
+People living with HIV are 12 times more likely to fall ill with TB disease than people without HIV. TB is the leading cause of death among people with HIV.
+
+HIV and TB form a lethal combination, each accelerating the other's progress. In 2024, about 150 000 people died of HIV-associated TB. The percentage of people who fell ill with TB and had a documented HIV test result was 82% in 2024. This was a slight increase from 81% in 2023. The WHO African Region has the highest burden of HIV-associated TB. Globally in 2024, only 61% of the estimated number of people living with HIV who developed TB received antiretroviral therapy (ART).
+
+WHO first recommended collaborative TB/HIV activities to reduce morbidity and mortality from HIV-associated TB in 2004. These activities include bidirectional screening, prevention and treatment of infection and disease. Scale-up of TB treatment and ART since 2005 is estimated to have averted 9.8 million deaths.

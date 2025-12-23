@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+transformers
+sentence-transformers
+faiss-cpu
+numpy
+datasets
+accelerate
+chromadb
+pydantic
+python-multipart
+huggingface-hub
+aiofiles

@@ -1,0 +1,41 @@
+SOURCE: World Health Organization (WHO)
+TITLE: Antimicrobial resistance
+URL: https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance
+DATE_ACCESSED: 2025-12-21
+TOPIC: Antimicrobial Resistance
+--------------------------------------------------
+
+Overview
+Antimicrobials – including antibiotics, antivirals, antifungals, and antiparasitics – are medicines used to prevent and treat infectious diseases in humans, animals and plants.
+
+Antimicrobial Resistance (AMR) occurs when bacteria, viruses, fungi and parasites no longer respond to antimicrobial medicines. As a result of drug resistance, antibiotics and other antimicrobial medicines become ineffective and infections become difficult or impossible to treat, increasing the risk of disease spread, severe illness, disability and death.
+
+AMR is a natural process that happens over time through genetic changes in pathogens. Its emergence and spread is accelerated by human activity, mainly the misuse and overuse of antimicrobials to treat, prevent or control infections in humans, animals and plants.
+
+A global concern
+Antimicrobial medicines are the cornerstone of modern medicine. The emergence and spread of drug-resistant pathogens threatens our ability to treat common infections and to perform life-saving procedures including cancer chemotherapy and caesarean section, hip replacements, organ transplantation and other surgeries.
+
+In addition, drug-resistant infections impact the health of animals and plants, reduce productivity in farms, and threaten food security.
+
+AMR has significant costs for both health systems and national economies overall. For example, it creates need for more expensive and intensive care, affects productivity of patients or their caregivers through prolonged hospital stays, and harms agricultural productivity.  
+
+AMR is a problem for all countries at all income levels. Its spread does not recognize country borders. Contributing factors include lack of access to clean water, sanitation and hygiene (WASH) for both humans and animals; poor infection and disease prevention and control in homes, healthcare facilities and farms; poor access to quality and affordable vaccines, diagnostics and medicines; lack of awareness and knowledge; and lack of enforcement of relevant legislation. People living in low-resource settings and vulnerable populations are especially impacted by both the drivers and consequences of AMR.
+
+What is the present situation?
+Drug-resistance in bacteria
+The global rise in antibiotic resistance poses a significant threat, diminishing the efficacy of common antibiotics against widespread bacterial infections. The 2022 Global Antimicrobial Resistance and Use Surveillance System (GLASS) report highlights alarming resistance rates among prevalent bacterial pathogens.  Median reported rates in 76 countries of 42% for third-generation cephalosporin-resistant E. coli and 35% for methicillin-resistant Staphylococcus aureus are a major concern. For urinary tract infections caused by E. coli, 1 in 5 cases exhibited reduced susceptibility to standard antibiotics like ampicillin, co-trimoxazole, and fluoroquinolones in 2020. This is making it harder to effectively treat common infections.
+
+Klebsiella pneumoniae, a common intestinal bacterium, also showed elevated resistance levels against critical antibiotics. Increased levels of resistance potentially lead to heightened utilization of last-resort drugs like carbapenems, for which resistance is in turn being observed across multiple regions. As the effectiveness of these last-resort drugs is compromised, the risks increase of infections that cannot be treated. Projections by the Organization for Economic Cooperation and Development (OECD) indicate an anticipated twofold surge in resistance to last-resort antibiotics by 2035, compared to 2005 levels, underscoring the urgent need for robust antimicrobial stewardship practices and enhanced surveillance coverage worldwide.
+
+Drug resistance in fungi 
+As drug-resistant fungal infections increase, WHO is monitoring their magnitude and public health impact. Fungal infections can be difficult to treat, including due to drug-drug interactions for patients with other infections (e.g. HIV). The emergence and spread of multi-drug resistant Candida auris, an invasive fungal infection, is of particular concern. Development of WHO’s Fungal Priority Pathogens List (see below) included a comprehensive review of fungal infections and drug-resistant fungi globally.
+
+Drug resistance in HIV, tuberculosis and malaria
+HIV drug resistance (HIVDR) is caused by changes in the HIV genome that affect the ability of antiretroviral (ARV) drugs to block the replication of the virus. HIVDR can either be transmitted at the time of infection or acquired because of inadequate adherence to treatment or drug-drug interactions. HIVDR can lead to increased HIV infections and HIV-associated morbidity and mortality. WHO recommends that countries routinely implement HIVDR surveys to inform the selection of optimal ARV drug regimens for HIV prevention and treatment.
+
+Tuberculosis (TB) is a major contributor to antimicrobial resistance. Multidrug-resistant tuberculosis (MDR-TB) is a form of TB caused by bacteria that do not respond to isoniazid and rifampicin, the two most effective first-line TB drugs. MDR-TB is treatable and curable by using second-line drugs, but these medicines are expensive and toxic, and in some cases more extensive drug resistance can develop. TB caused by bacteria that do not respond to the most effective second-line TB drugs can leave patients with very limited treatment options. MDR-TB is therefore a public health crisis and threat to health security. Only about 2 in 5 people with drug resistant TB accessed treatment in 2022.
+
+The emergence of drug-resistant parasites is a major threat to malaria control. Artemisinin-based combination therapies (ACTs) are the recommended first-line treatment for uncomplicated Plasmodium falciparum malaria and are used by most malaria endemic countries. Emergence of partial resistance to artemisinin and/or partner drugs in ACTs makes selecting the right treatment more challenging and requires close monitoring. In the Greater Mekong Subregion, partial resistance to artemisinin or a partner drug has been confirmed in several countries since 2001. In the WHO Eastern Mediterranean Region, resistance to a partner drug, sulfadoxine-pyrimethamine, led in some countries to treatment failure requiring a change to another ACT. In Africa, mutations linked to artemisinin partial resistance have been observed in several countries. ACTs that have been tested remain efficacious, but further spread of resistance could be a major public health challenge and improved surveillance is vital.
+
+Drug resistance in neglected tropical diseases (NTDs)
+The emergence of drug resistance against medicines for neglected tropical diseases (NTDs) is a significant threat to programmes to control, eliminate and eradicate NTDs, which especially affect vulnerable and marginalized populations. Resistance has been reported in leprosy medicines (dapsone, rifampicine and clofazimine) in several countries, in several anti-helminthics (while resistance has so far only been observed in use in animals, which is a serious concern for the veterinary sector, some of these medicines are also used in humans), in medicines used to treat human African trypanosomiasis (melarsoprol) and leishmaniasis (pentavalent antimonials, miltefosine), and others.  It is important to monitor resistance and drug efficacy, put in place strategies to delay or curb resistance, and strengthen the pipeline of second-line medicines for NTDs. For example, WHO provides guidance for surveillance of resistance for the global leprosy elimination programme, and support to control distribution and monitor the standardized use, safety and efficacy of medicines, including donated medicines, in NTD programmes.
