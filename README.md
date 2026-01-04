@@ -22,8 +22,8 @@
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd "gen ai phase 2"
+git clone https://github.com/amueedk/Clinical-Guidelines-QA-with-Transformers
+cd "Clinical-Guidelines-QA-with-Transformers"
 ```
 
 2. **Create virtual environment**
